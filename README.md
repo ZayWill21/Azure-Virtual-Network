@@ -1,4 +1,5 @@
 Virtual Architecture Environment with Azure Cloud using Terraform
+
 Welcome to my repository! This project demonstrates how to use Terraform to create a virtual architecture environment in Azure Cloud. The primary goal is to showcase the power of Infrastructure as Code (IaC) and how Terraform can be leveraged to automate the deployment and management of cloud infrastructure.
 
 Project Overview
